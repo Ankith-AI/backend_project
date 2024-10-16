@@ -4,3 +4,5 @@ torch
 transformers
 fastapi
 uvicorn
+python-keycloak
+python-jose[cryptography]
