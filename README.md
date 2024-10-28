@@ -33,4 +33,5 @@ STEP 3: Add volume to `compose.yaml` for proper sync:
 
 STEP 4: Run `docker compose up --build`
 
-STEP 5: Docker desktop > Run the app; (http://localhost:8000/docs) -> FastAPI Swagegr UI
+STEP 5: Docker desktop > Run the app; (http://localhost:8000/docs) -> FastAPI Swagger UI 
+## Authorization has been added using FastAPI Security. 
